@@ -6,19 +6,19 @@
 
 ### 📌 달성 목표
 
-&nbsp;&nbsp;&nbsp;✅ **Vue 3 기반 SPA 웹 애플리케이션 개발 능력** 확인
-&nbsp;&nbsp;&nbsp;✅ **REST API** 통신 및 활용 능력 점검
+- **Vue 3 기반 SPA 웹 애플리케이션 개발 능력** 확인
+- **REST API** 통신 및 활용 능력 점검
 
 ### 📝 평가 방법
 
-&nbsp;&nbsp;&nbsp;✅ 평가 문항에 따라 기본 프로젝트 구조 설계
-&nbsp;&nbsp;&nbsp;✅ **Vue Router** 기반 CRUD 페이지 구현 필수
+- 평가 문항에 따라 기본 프로젝트 구조 설계
+- **Vue Router** 기반 CRUD 페이지 구현 필수
 
 ### 💻 기술 요구사항
 
-&nbsp;&nbsp;&nbsp;✅ **Composition API** 기반의 컴포넌트 작성
-&nbsp;&nbsp;&nbsp;✅ **vue-router**를 이용한 라우팅 처리
-&nbsp;&nbsp;&nbsp;✅ **axios**를 활용한 REST API CRUD 요청\*\*
+- **Composition API** 기반의 컴포넌트 작성
+- **vue-router**를 이용한 라우팅 처리
+- **axios**를 활용한 REST API CRUD 요청\*\*
 
 ---
 
